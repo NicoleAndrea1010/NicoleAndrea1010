@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @NicoleAndrea1010, you can call me Drea!
-- 💻 I’m interested in creating simple websites.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python.
-- 📖 I am a beginner with coding.
-- 🎨 I am a creative person. I like to code things about art, design, animation and games!
+help
